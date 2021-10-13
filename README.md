@@ -1,7 +1,6 @@
 # Pong com VisualScript
 
-jogo Pong simples. Esta demonstração mostra as práticas
-[signals](https://docs.godotengine.org/en/latest/getting_started/step_by_step/signals.html).
+jogo Pong simples.
 
 Language: [VisualScript](https://docs.godotengine.org/en/latest/tutorials/scripting/visual_script/index.html)
 
