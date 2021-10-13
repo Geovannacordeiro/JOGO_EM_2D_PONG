@@ -2,7 +2,8 @@
 
 jogo Pong simples.
 
-Language: [VisualScript](https://docs.godotengine.org/en/latest/tutorials/scripting/visual_script/index.html)
+Language: [VisualScript](https://docs.godotengine.org/pt_BR/stable/getting_started/scripting/visual_script/what_is_visual_scripting.html)
+
 
 
 
