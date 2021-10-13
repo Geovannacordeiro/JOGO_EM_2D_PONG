@@ -11,7 +11,7 @@ Renderer: GLES 2
 ## Como funciona?
 
 As paredes, remo e bola são todos
-[`Area2D`] (https://docs.godotengine.org/en/latest/classes/class_area2d.html)
+[`Area2D`]
 nós. Quando a bola toca as paredes ou as pás,
 eles emitem sinais e modificam a bola.
 
