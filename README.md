@@ -5,7 +5,6 @@ jogo Pong simples. Esta demonstração mostra as práticas
 
 Language: [VisualScript](https://docs.godotengine.org/en/latest/tutorials/scripting/visual_script/index.html)
 
-Renderer: GLES 2
 
 
 ## Como funciona?
